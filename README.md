@@ -34,18 +34,18 @@ This README should also provide something of a guide to navigate the necessary p
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/selectTrigger.png" width="75%">
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/triggerSet.png" width="75%">
 
-1.7. Configure the function as follows and then press "Next":
+1.8. Configure the function as follows and then press "Next":
 
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/functionConfig1.png" width="75%">
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/functionConfig2.png" width="75%">
 
-1.8. A summary of the configuration should be shown, if you're happy with it go ahead and press "Create function"
+1.9. A summary of the configuration should be shown, if you're happy with it go ahead and press "Create function"
 
-1.9. You now have a function! Although at the moment it just uses the sample code Amazon provide. To change this go to the "Code" tab, select all inside the box presented and replace it with the contents of "skill.js" from this repository.
+1.10. You now have a function! Although at the moment it just uses the sample code Amazon provide. To change this go to the "Code" tab, select all inside the box presented and replace it with the contents of "skill.js" from this repository.
 
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/functionCode.png" width="75%">
 
-1.10. Add in your own Dark Sky API key and your own latitude/longitude and then press "Save":
+1.11. Add in your own Dark Sky API key and your own latitude/longitude and then press "Save":
 
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/changeDefaults.png" width="75%">
 
