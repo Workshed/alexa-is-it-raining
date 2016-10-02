@@ -29,6 +29,11 @@ This README should also provide something of a guide to navigate the necessary p
 
 1.6. Select 'alexa-skills-kit-color-expert' (this will create a template function for us to work from)
 
+1.7. On the "Configure Triggers" screen set the trigger to "Alexa Skills Kit" as shown:
+
+<img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/selectTrigger.png" width="75%">
+<img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/triggerSet.png" width="75%">
+
 1.7. Configure the function as follows and then press "Next":
 
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/functionConfig1.png" width="75%">
@@ -94,4 +99,4 @@ IsItRaining can I walk the dog
 
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/testSkill.png" width="75%">
 
-If you have an Amazon Echo linked to the same account you used to create this skill it should already be set up for you to use!
+If you have an Amazon Echo linked to the same account you used to create this skill it should already be set up for you to use! You just need to say "Alexa can I walk the dog?".
