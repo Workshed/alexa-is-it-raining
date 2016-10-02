@@ -13,7 +13,7 @@ This README should also provide something of a guide to navigate the necessary p
 
 1. Head over to https://console.aws.amazon.com/lambda/
 2. Press the "Create a Lambda function" button:
-![image](https://github.com/Workshed/alexa-is-it-raining/blob/master/images/image1.png "Create Lambda function")
+![image](https://github.com/Workshed/alexa-is-it-raining/blob/master/images/createLambda.png "Create Lambda function")
 3. You should be presented with something similar to the following:
 
 4. Select "Node.js 4.3" for the runtime
