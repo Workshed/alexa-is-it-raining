@@ -89,3 +89,9 @@ IsItRaining can I walk the dog
 2.7. On the "Configuration" section add in the ARN of the Lambda function you created (you can find this at the top right of the Lambda page when editing the code of the function):
 
 <img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/skillConfig3.png" width="75%">
+
+2.8. You are now able to test your new Alexa skill, go to the "Test" section and enter the utterance "can I walk the dog" and then press "Ask is it raining?". You should see the service respond successfully as shown:
+
+<img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/testSkill.png" width="75%">
+
+If you have an Amazon Echo linked to the same account you used to create this skill it should already be set up for you to use!
