@@ -18,6 +18,11 @@ This README should also provide something of a guide to navigate the necessary p
 
 3. You should be presented with something similar to the following:
 
+<img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/functionsRuntime.png" width="75%">
+
 4. Select "Node.js 4.3" for the runtime
 5. Type "alexa" in the filter box
+
+<img src="https://github.com/Workshed/alexa-is-it-raining/blob/master/images/filteredFunctions.png" width="75%">
+
 6. Select 'alexa-skills-kit-color-expert' (this will create a template function for us to work from).
